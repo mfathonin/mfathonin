@@ -3,15 +3,17 @@
   <h1 align="center">Fathoni Here!</h1>
 </p>
 
-Hi, I’m @mfathonin. 👋🏻 
+Hi there, 👋🏻 
 
-I'm Electrical Engineer from <b>Institut Teknologi Bandung</b>, IDN 🇮🇩 . I’m interested in Tech, Web and Mobile Development, Automation, Robotics, and IoT. One of 🍎 <b>Apple Developer Academy</b> Alumni from Cohort 5 @Jakarta. Currently learning Apps Development in Apple Ecosystems and wood crafting as a hobbies. 
+I'm Electrical Engineer from <b><i>Institut Teknologi Bandung</i></b>, IDN 🇮🇩 . I'm interested in Tech, Web and Mobile Development, Automation, Robotics, and IoT. One of 🍎 <b><i>Apple Developer Academy</i></b> Alumni from Cohort 5 @Jakarta. Currently learning Apps Development in Apple Ecosystems and wood crafting as a hobby.
+
+&emsp;
 
 
 💬 Contact me by
 ------
-[<img src="https://user-images.githubusercontent.com/14192723/206136398-76ae041e-b444-42fa-b352-e4eef4e97fec.png" alt="mfathonin@gmail.com" height="25px" />
-](mailto:mfathonin@gmail.com)   •   [<img src="https://user-images.githubusercontent.com/14192723/206137075-0192f9d8-e7f9-4a5a-bcbd-a74988372aaa.png" alt="linkedin.com/in/mfathonin" height="25px" />
+&emsp;&emsp;&nbsp;[<img src="https://user-images.githubusercontent.com/14192723/206143320-c21acb83-2f41-4ad1-9787-20e14b2e30dd.png" alt="mfathonin@gmail.com" height="25px" />
+](mailto:mfathonin@gmail.com)&emsp;[<img src="https://user-images.githubusercontent.com/14192723/206137075-0192f9d8-e7f9-4a5a-bcbd-a74988372aaa.png" alt="linkedin.com/in/mfathonin" height="25px" />
 ](https://linkedin.com/in/mfathonin)
 
 <!---
